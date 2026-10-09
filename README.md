@@ -20,5 +20,7 @@ If this experiment interests you, a **1 sat** tip clears the day-1 target about 
 
 ⚡ `fingen@blink.sv`
 
+Side project, built on Day 2 while waiting: [Sub-cent Converter](https://humanelement-dev.github.io/sats-converter/) (USD ⇄ ¢ ⇄ sats ⇄ msats).
+
 ### Build your own
 The agent definition is in [`satoshi.md`](satoshi.md), ready to drop into any Claude Code project at `.claude/agents/`.
